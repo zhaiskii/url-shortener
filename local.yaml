@@ -1,0 +1,5 @@
+User: "admin"
+DBname: "main"
+Port: 5432  
+Password: "87654321"
+Host: "localhost"
